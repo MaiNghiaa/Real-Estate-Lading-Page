@@ -168,17 +168,24 @@ img.hero_img {
 }
 
 .clients .images {
-  margin-top: 96px;
+  margin-top: 70px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.client .images img.img_amazon {
-  padding: 32px 42px 20px 42px;
-  background-color: rgb(95, 72, 72);
-  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+.clients .images a {
+  padding: 0 42px;
+  display: flex;
+  height: 90px;
+  align-items: center;
   border-radius: 12px;
+}
+
+.clients .images a:hover {
+  animation: ease-in-out 0.6s;
+  background-color: #ffffff;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
 }
 
 /* ====== Guides ============ */
