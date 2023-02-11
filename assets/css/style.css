@@ -70,9 +70,10 @@ img.logo {
 .hero-wrap {
   position: relative;
   background-color: #e6f0ff;
-  height: 100vh;
+  height: calc(100vh - 90px);
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .navbar {
@@ -117,14 +118,11 @@ img.logo {
 .navbar ul li a:hover {
   text-decoration: underline;
 }
-.hero {
-  margin-top: 150px;
-}
 
-.hero .info {
+.hero-wrap .info {
   width: 51%;
 }
-.hero .sub-title {
+.hero-wrap .sub-title {
   font-weight: 500;
   font-size: 1.8rem;
   line-height: 1.5;
@@ -132,7 +130,7 @@ img.logo {
   color: #687690;
 }
 
-.hero .title {
+.hero-wrap .title {
   margin-bottom: 30px;
   margin-top: 8px;
   font-weight: 700;
@@ -143,7 +141,7 @@ img.logo {
   color: #000336;
 }
 
-.hero .desc {
+.hero-wrap .desc {
   margin-bottom: 40px;
   font-weight: 400;
   font-size: 18px;
