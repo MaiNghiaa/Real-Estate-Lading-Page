@@ -643,11 +643,16 @@ h2.sub-title {
   align-items: center;
   width: 28px;
   height: 28px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.footer .social-link + .social-link {
+  margin-left: 16px;
 }
 
 .footer .social-link:hover {
   background-color: #fffff1;
-  border-radius: 8px;
 }
 .footer .row-bottom {
   margin-top: 81px;
