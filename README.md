@@ -1,9 +1,15 @@
 # Real-Estate-Lading-Page
 
-- Dự án này là một trang web cho một nền tảng giáo dục 
-- Hiện Tại đây mới chỉ là phần Landing Page của Trang chưa gồm các chức năng khác
+- Đây là một trang web mẫu để giới thiệu một trang web bất động sản. 
+-Trang web bao gồm các phần giới thiệu, danh sách bất động sản nổi bật, đăng ký nhận thông tin và liên hệ với chúng tôi.
 
-## Công nghệ sử dụng
+## Một số hình ảnh
+![alt text](/assets/Img/z4140270642508_79659aed5fe42e9c11031263e98e826c.jpg)
+![alt text](/assets/Img/z4140270646857_60cce58a5532055719be927b0bddf301.jpg)
+![alt text](/assets/Img/z4140270647673_d2b87b92d05d560a4c800ee7ba9db8c8.jpg)
+
+## Các công nghệ sử dụng
+- Trang web được viết bằng :
 - HTML
 - CSS
 - JavaScript
@@ -11,8 +17,8 @@
 ## Cài đặt
 - Để chạy dự án này trên máy của bạn, làm theo các bước sau:
 
-- Sao chép kho lưu trữ: `git clone https://github.com/your-username/education-platform-website.git`
-- Điều hướng đến thư mục dự án: `cd education-platform-website`
+- Sao chép kho lưu trữ: `git clone https://github.com/MaiNghiaa/Real-Estate-Lading-Page.git`
+- Điều hướng đến thư mục dự án: `cd Real-Estate-Lading-Page`
 - Cài đặt các phụ thuộc: `npm install`
 - Khởi chạy máy chủ phát triển: `npm start`
 - Mở trình duyệt của bạn và điều hướng đến `http://localhost:3000`
@@ -22,3 +28,6 @@
 
 ## Hỗ Trợ
 Dự án này được hướng dẫn bởi F8
+
+Cập nhật
+Chúng tôi sẽ tiếp tục cập nhật trang web để cải thiện trải nghiệm của người dùng.
